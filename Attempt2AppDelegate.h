@@ -1,0 +1,15 @@
+//
+//  Attempt2AppDelegate.h
+//  Attempt2
+//
+//  Created by Me! on 4/1/13.
+//  Copyright (c) 2013 a. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface Attempt2AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
